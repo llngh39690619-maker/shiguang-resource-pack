@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "minecraft": "26.2",
+  "filename": "fishing-1.0.0.zip",
+  "bytes": 1698222,
+  "sha1": "451af481d539084bd10065d62e67f93081d50981",
+  "sha256": "755ace64e5f6fd5b167f356b4f80306642693e291796c8e3a13d48aa3c960319",
+  "textures": 24,
+  "resolution": "256x256",
+  "namespace": "ff_fishing"
+}
