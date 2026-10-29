@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "minecraft": "26.2",
+  "filename": "jsonitems-1.0.0.zip",
+  "bytes": 3979,
+  "sha1": "04438fbc431eb17079afaf1cae0821f8eff17e5f",
+  "sha256": "60ccef66c36fee8daebc00aa6a30be19686314324e77c66f5ae3f6fc31748783",
+  "item_ids": [
+    "demo_sword",
+    "demo_wings",
+    "demo_armor"
+  ],
+  "models": 2,
+  "namespaces": [
+    "jsonitems",
+    "jsonitems_demo"
+  ]
+}
